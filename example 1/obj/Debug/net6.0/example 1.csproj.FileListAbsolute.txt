@@ -1,0 +1,15 @@
+Z:\homeworks\c#\1\example 1\bin\Debug\net6.0\example 1.exe
+Z:\homeworks\c#\1\example 1\bin\Debug\net6.0\example 1.deps.json
+Z:\homeworks\c#\1\example 1\bin\Debug\net6.0\example 1.runtimeconfig.json
+Z:\homeworks\c#\1\example 1\bin\Debug\net6.0\example 1.dll
+Z:\homeworks\c#\1\example 1\bin\Debug\net6.0\example 1.pdb
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.csproj.AssemblyReference.cache
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.AssemblyInfoInputs.cache
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.AssemblyInfo.cs
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.csproj.CoreCompileInputs.cache
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.dll
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\refint\example 1.dll
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.pdb
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\example 1.genruntimeconfig.cache
+Z:\homeworks\c#\1\example 1\obj\Debug\net6.0\ref\example 1.dll
